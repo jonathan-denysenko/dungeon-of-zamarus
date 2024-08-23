@@ -1,0 +1,1 @@
+rm_room2 = room2;
