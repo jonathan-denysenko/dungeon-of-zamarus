@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"obj_back","path":"objects/obj_back/obj_back.yy",},},
     {"id":{"name":"obj_collide","path":"objects/obj_collide/obj_collide.yy",},},
+    {"id":{"name":"obj_door_from_room3_to_room2","path":"objects/obj_door_from_room3_to_room2/obj_door_from_room3_to_room2.yy",},},
     {"id":{"name":"obj_door_to_room3","path":"objects/obj_door_to_room3/obj_door_to_room3.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_doorway_2","path":"objects/obj_doorway_2/obj_doorway_2.yy",},},
