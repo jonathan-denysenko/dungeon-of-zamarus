@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Dungeons of Zamarus!",
+  "%Name":"Dungeons of Zamarus",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
