@@ -5,4 +5,4 @@ global.player_x = x;
 
 room_goto(Room3)
 
-y = 219;
+y = 450;
