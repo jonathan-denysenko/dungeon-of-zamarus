@@ -1,5 +1,10 @@
-hp = 50;
+alarm_set(0, 15);
+speed = 1.5
+path = path_add();
 
-if (health <= 0) {
-	instance_destroy();
-}
+target_x = obj_player.x;
+target_y = obj_player.y;
+
+
+
+

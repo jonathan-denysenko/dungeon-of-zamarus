@@ -1,3 +1,4 @@
+
 image_angle = 0.00
 var _right_key = keyboard_check(vk_right);
 var _left_key = keyboard_check(vk_left);
