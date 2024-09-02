@@ -1,4 +1,7 @@
-
+if (keyboard_check_pressed(ord("R"))) {
+	game_restart();
+}
+ depth = -3000;
 image_angle = 0.00
 var _right_key = keyboard_check(vk_right);
 var _left_key = keyboard_check(vk_left);
