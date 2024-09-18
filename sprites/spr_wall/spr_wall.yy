@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"spr_wall",
-  "bboxMode":0,
-  "bbox_bottom":15,
-  "bbox_left":0,
-  "bbox_right":15,
-  "bbox_top":0,
+  "bboxMode":2,
+  "bbox_bottom":14,
+  "bbox_left":-1,
+  "bbox_right":14,
+  "bbox_top":-1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":16,
+  "height":14,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"cf3c4f74-1edf-4542-9b9d-24043fdec342","blendMode":0,"displayName":"default","isLocked":false,"name":"cf3c4f74-1edf-4542-9b9d-24043fdec342","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":16,
+  "width":14,
 }
